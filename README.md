@@ -1,4 +1,6 @@
-PixelArt-
+PixelArt!-
 =========
 
-c# Pixel Art Animation Editor
+C# Pixel Art Animation Editor
+
+
